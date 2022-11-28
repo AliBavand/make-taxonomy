@@ -1,0 +1,81 @@
+ROOT Agent Work Place Species UnitOfWork Event SportsSeason Device TopicalConcept
+Agent Politician Organisation Person Athlete MotorcycleRider Company WinterSportPlayer EducationalInstitution Actor SportsManager Cleric Boxer Artist Coach ComicsCharacter Group Broadcaster SportsTeam Scientist BritishRoyalty FictionalCharacter Presenter Writer SportsLeague GridironFootballPlayer RacingDriver Wrestler OrganisationMember MusicalArtist VolleyballPlayer
+Work MusicalWork PeriodicalLiterature Cartoon Software Comic WrittenWork Song Database 
+Place NaturalPlace Building Settlement RouteOfTransportation ClericalAdministrativeRegion BodyOfWater Infrastructure Venue Tower SportFacility CelestialBody Satellite AmusementParkAttraction RaceTrack Stream Station
+Species Animal Plant Eukaryote Horse FloweringPlant
+UnitOfWork LegalCase
+Event SocietalEvent Tournament Olympics Race SportsEvent NaturalEvent
+SportsSeason FootballLeagueSeason SportsTeamSeason
+Device Engine
+TopicalConcept Genre
+Politician Senator Mayor Congressman MemberOfParliament President PrimeMinister GovernorMusicalWork Album Musical ArtistDiscography Single ClassicalMusicComposition
+MusicalWork Album Musical ArtistDiscography Single ClassicalMusicComposition
+NaturalPlace Mountain Glacier Volcano MountainRange MountainPass Cave
+PeriodicalLiterature AcademicJournal Newspaper Magazine
+Building HistoricBuilding ShoppingMall Hotel Castle Prison Hospital Museum Restaurant
+Animal Reptile Insect Amphibian Bird Crustacean Fish Arachnid Mollusca
+Organisation MilitaryUnit TradeUnion Legislature PublicTransitSystem PoliticalParty
+Person Judge MilitaryPerson OfficeHolder Monarch Economist Architect HorseTrainer Engineer BeautyQueen Noble Philosopher Ambassador Journalist Religious BusinessPerson Chef Model PlayboyPlaymate Astronaut
+Athlete ChessPlayer TennisPlayer GolfPlayer HorseRider BasketballPlayer RugbyPlayer HandballPlayer BadmintonPlayer Gymnast GaelicGamesPlayer MartialArtist SoccerPlayer BaseballPlayer Swimmer Cyclist Jockey Canoeist Cricketer Bodybuilder TableTennisPlayer SquashPlayer AustralianRulesFootballPlayer Rower DartsPlayer PokerPlayer NetballPlayer LacrossePlayer
+Settlement Town Village
+LegalCase SupremeCourtOfTheUnitedStatesCase
+MotorcycleRider SpeedwayRider
+Company Publisher RecordLabel BusCompany Bank Airline Brewery LawFirm Winery
+RouteOfTransportation Road Bridge RailwayLine RoadTunnel
+SocietalEvent Election MilitaryConflict Convention MusicFestival FilmFestival
+WinterSportPlayer IceHockeyPlayer Skier FigureSkater Skater Curler
+ClericalAdministrativeRegion Diocese
+EducationalInstitution Library University School
+BodyOfWater Lake
+Plant Conifer Moss Cycad Fern CultivatedVariety GreenAlga
+Infrastructure Dam Airport
+FootballLeagueSeason NationalFootballLeagueSeason
+Actor VoiceActor AdultActor
+SportsManager SoccerManager
+Cleric Saint ChristianBishop Cardinal Pope
+Boxer AmateurBoxer
+Cartoon HollywoodCartoon Anime
+Venue Theatre
+Artist ComicsCreator Painter FashionDesigner Comedian Photographer
+Tournament GolfTournament SoccerTournament TennisTournament WomensTennisAssociationTournament
+Coach CollegeCoach
+ComicsCharacter AnimangaCharacter
+Olympics OlympicEvent
+SportsTeamSeason NCAATeamSeason BaseballSeason SoccerClubSeason
+Software VideoGame
+Group Band
+Broadcaster RadioStation BroadcastNetwork TelevisionStation
+Tower Lighthouse
+Race HorseRace CyclingRace
+SportFacility Stadium GolfCourse CricketGround
+SportsTeam RugbyClub HockeyTeam BasketballTeam CyclingTeam HandballTeam CanadianFootballTeam CricketTeam AustralianFootballTeam
+SportsEvent GrandPrix FootballMatch WrestlingEvent MixedMartialArtsEvent
+Eukaryote Fungus
+Scientist Entomologist Medician
+CelestialBody Planet Galaxy
+Engine AutomobileEngine
+BritishRoyalty Baronet
+Satellite ArtificialSatellite
+Comic Manga ComicStrip
+WrittenWork Play Poem
+FictionalCharacter SoapCharacter MythologicalFigure
+Presenter RadioHost
+Horse RaceHorse
+NaturalEvent Earthquake SolarEclipse
+AmusementParkAttraction RollerCoaster
+Writer Historian ScreenWriter Poet
+Song EurovisionSongContestEntry
+RaceTrack Racecourse
+SportsLeague BasketballLeague SoccerLeague RugbyLeague BaseballLeague IceHockeyLeague
+Genre MusicGenre
+GridironFootballPlayer AmericanFootballPlayer
+Database BiologicalDatabase
+RacingDriver FormulaOneRacer NascarDriver
+Wrestler SumoWrestler
+Stream River Canal
+FloweringPlant Grape
+Station RailwayStation
+OrganisationMember SportsTeamMember
+MusicalArtist ClassicalMusicArtist
+VolleyballPlayer BeachVolleyballPlayer
+Footer
